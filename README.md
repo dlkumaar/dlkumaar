@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+After 10 incredible years full of adventure and travel, the pandemic in 2020, converted me into a software developer, and I must say I love this new me.
+
+Connect with me to share ideas, learn and grow together: &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rkumaar/)
